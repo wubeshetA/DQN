@@ -18,7 +18,7 @@ class HospitalNavigationEnv(gym.Env):
         self.beds = [(0, 1), (2, 1), (4, 1), (1, 3), (3, 3)]
         self.doctor = (3, 2)
         self.nurse = (3, 2)
-    
+        
         # Initialize agent position
         self.agent_pos = None
         

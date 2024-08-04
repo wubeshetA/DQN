@@ -45,10 +45,6 @@ python play.py
 
 ```
 
-## Video Demonstration
-
-[Link to 5-minute video demonstration](https://youtu.be/gFM__0xhhmg)
-
 ## Technologies Used
 
 - Python 3.8+
